@@ -13,7 +13,7 @@
     <artifactId>pet-clinic-data</artifactId>
 
     <properties>
-        <sprint-boot.repackage.skip>true</sprint-boot.repackage.skip>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
 
     <dependencies>
